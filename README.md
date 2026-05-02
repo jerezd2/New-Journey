@@ -150,8 +150,7 @@ flutter run
 
 
 
-| Name | Role |
-|---|---|
+| Name            | Role |
 | Destiny Jerez   | Backend Developer |
 | Karolina Szwarc | Backend Developer |
 | Geena Armstrong | Backend Developer |
